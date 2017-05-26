@@ -1,1 +1,1 @@
-=== Docker image with Firefox Developer Edition running on Archlinux ===
+#Docker image with Firefox Developer Edition running on Archlinux
